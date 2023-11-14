@@ -9,6 +9,8 @@
 
 <body>
     <h1>Tính năng mới </h1>
+    <h1>Tính năng mới </h1>
+
 </body>
 
 </html>
